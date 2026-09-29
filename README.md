@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/BryanMedrano/lab2v2026/actions/workflows/buil.yml/badge.svg)](https://github.com/BryanMedrano/lab2v2026/actions/workflows/buil.yml)
+
 # lab2v2026
 Implementation of a Simple App with the next operations:
 
